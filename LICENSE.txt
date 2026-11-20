@@ -1,0 +1,18 @@
+Edirantor 利用条件 / Terms of Use
+
+Copyright (c) 2026 parbon333 (Parbon)
+
+1. 個人・非商用・商用を問わず、無料で使用できます。
+2. このソフトウェアの再販、有償での配布は禁止します。
+3. 再配布する場合は、配布元（本リポジトリ）へのリンクを添えてください。改変した exe の配布は禁止します。
+4. 本ソフトウェアは現状のまま提供され、動作や結果についていかなる保証もしません。
+   使用によって生じた損害について、作者は責任を負いません。
+5. Edirantor は Riot Games と無関係の非公式ツールです。VALORANT の映像の取り扱いは、
+   Riot Games の規約に従ってください。
+
+1. Free to use for any purpose.
+2. Selling or charging for distribution is prohibited.
+3. When redistributing, link back to this repository. Distributing modified binaries is prohibited.
+4. Provided "AS IS", without warranty of any kind. The author is not liable for any damages.
+5. Edirantor is an unofficial tool and is not affiliated with Riot Games. VALORANT is a
+   trademark of Riot Games, Inc.
