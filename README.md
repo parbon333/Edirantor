@@ -40,7 +40,7 @@ Windows 10 / 11（64bit）
 
 ## 不具合・要望
 
-[Issues](https://github.com/parbon333/Edirantor/issues) へどうぞ。
+[Issues](https://github.com/parbon333/Edirantor/issues) か、X（[@Parbon333](https://x.com/Parbon333)）の DM へどうぞ。
 
 ## ライセンス
 
