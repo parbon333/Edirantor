@@ -2,17 +2,26 @@ Edirantor 利用条件 / Terms of Use
 
 Copyright (c) 2026 parbon333 (Parbon)
 
-1. 個人・非商用・商用を問わず、無料で使用できます。
-2. このソフトウェアの再販、有償での配布は禁止します。
-3. 再配布する場合は、配布元（本リポジトリ）へのリンクを添えてください。改変した exe の配布は禁止します。
-4. 本ソフトウェアは現状のまま提供され、動作や結果についていかなる保証もしません。
-   使用によって生じた損害について、作者は責任を負いません。
-5. Edirantor は Riot Games と無関係の非公式ツールです。VALORANT の映像の取り扱いは、
+1. 個人・商用を問わず、本ソフトウェアを無料で使用できます（本ソフトウェアを用いた動画編集業務等の商業活動を含みます）。
+2. 本ソフトウェアの改変、逆アセンブル、逆コンパイル、逆エンジニアリングを禁止します。
+3. 本ソフトウェアおよびその複製物・改変物の再配布を禁止します（リンクの掲示の有無を問いません）。
+   本ソフトウェアは、作者が公開する本リポジトリ（GitHub）からのみダウンロードしてください。
+4. 本ソフトウェア自体を商品として販売、貸与、有償提供することを禁止します（本ソフトウェアを用いて
+   制作した動画を YouTube 等の SNS に投稿し、広告収入を得ることは禁止されません）。
+5. 本ソフトウェアは現状のまま提供され、動作や結果についていかなる保証もしません。作者の故意による
+   場合を除き、使用によって生じた損害について、作者は責任を負いません。
+6. Edirantor は Riot Games と無関係の非公式ツールです。VALORANT の映像の取り扱いは、
    Riot Games の規約に従ってください。
 
-1. Free to use for any purpose.
-2. Selling or charging for distribution is prohibited.
-3. When redistributing, link back to this repository. Distributing modified binaries is prohibited.
-4. Provided "AS IS", without warranty of any kind. The author is not liable for any damages.
-5. Edirantor is an unofficial tool and is not affiliated with Riot Games. VALORANT is a
+1. Free to use for any purpose, personal or commercial (including using it as part of a paid
+   video-editing service).
+2. Modifying, disassembling, decompiling, or reverse-engineering this software is prohibited.
+3. Redistributing this software, or any copy or modified version of it, is prohibited, regardless
+   of whether a link back is included. Download it only from the author's official GitHub repository.
+4. Selling, renting, or otherwise commercially offering the software itself as a product is
+   prohibited (posting videos made with it to YouTube or other platforms and earning ad revenue
+   is not prohibited).
+5. Provided "AS IS", without warranty of any kind. The author is not liable for any damages
+   arising from use, except where caused intentionally by the author.
+6. Edirantor is an unofficial tool and is not affiliated with Riot Games. VALORANT is a
    trademark of Riot Games, Inc.
